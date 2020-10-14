@@ -12,7 +12,7 @@ This
 [video](https://youtu.be/T2o5vfLv9fA)
 should help you solve the problem by hand so you can get your code to do the same.
 
-//Hi!
+
 ## Background
 Two SCUBA diving buddies have encountered a large, box-shaped storage facility inside the hull of the Heian Maru, a 512' submarine tender lying on the bottom of Truk Lagoon at 108'. The storage facility is composed of 10' x 10' x 10' cells, some of which can be entered and some which cannot. The only exterior walls that are missing are on the front of the storage facility in the upper left corner, and on the rear of the storage facility in the lower right corner. The divers wish to determine a path through the storage facility.
 
