@@ -1,0 +1,1 @@
+importMaze Mazes/Solvable1.txt True

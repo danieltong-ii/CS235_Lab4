@@ -4,9 +4,12 @@
 #include <cstring>
 #include <stack>
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 #include <sstream>
+#include <fstream>
 #include <cctype>
+#include <queue>
 #include <vector>
 #include "PathfinderInterface.h"
 
@@ -38,6 +41,7 @@ public:
     *				A single string representing the current maze
     */
 	string toString() const;
+    bool findPath(int x, int y, int z);
 
     /*
     * createRandomMaze
